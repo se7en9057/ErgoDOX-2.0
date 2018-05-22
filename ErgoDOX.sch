@@ -1,6 +1,7 @@
 EESchema Schematic File Version 2
 LIBS:component
 LIBS:ProMicro
+LIBS:ErgoDOX-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 16535 11693
@@ -1773,4 +1774,8 @@ Connection ~ 6400 6050
 Connection ~ 6400 6700
 Connection ~ 6400 7350
 Connection ~ 6400 8000
+Wire Wire Line
+	5700 6050 5700 6150
+Wire Wire Line
+	5700 6150 5600 6150
 $EndSCHEMATC
