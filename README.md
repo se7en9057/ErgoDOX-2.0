@@ -1,5 +1,6 @@
 # ErgoDOX-2.0
 ![alt text](https://github.com/se7en9057/ErgoDOX-2.0/blob/master/ErgoDox2.0.png) 
+(Circuit design based on the Let's Split PCB)<br />
 An update to a classic. <br />
 -more switch compatibility<br />
   -MX Alps PG1350<br />
