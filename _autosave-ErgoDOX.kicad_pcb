@@ -5,7 +5,7 @@
     (no_connects 401)
     (area 22.890479 30.289499 206.108301 189.542421)
     (thickness 1.6002)
-    (drawings 33)
+    (drawings 34)
     (tracks 0)
     (zones 0)
     (modules 113)
@@ -6302,6 +6302,9 @@
       (xy -2.939146 -5.117164)) (layer F.SilkS) (width 0.01))
   )
 
+  (gr_text "ErgoDox 2.0" (at 90.678 51.816) (layer F.SilkS)
+    (effects (font (size 6 6) (thickness 1)))
+  )
   (gr_circle (center 139.065 91.567) (end 139.319 95.25) (layer Edge.Cuts) (width 0.381) (tstamp 5B04AF88))
   (gr_arc (start 59.69 121.666) (end 62.611 120.269) (angle 196.4697015) (layer Edge.Cuts) (width 0.381))
   (gr_circle (center 201.168 37.084) (end 201.168 40.386) (layer Edge.Cuts) (width 0.381))
