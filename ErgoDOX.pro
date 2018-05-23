@@ -1,4 +1,4 @@
-update=5/21/2018 9:55:20 PM
+update=5/22/2018 8:13:36 PM
 version=1
 last_client=kicad
 [general]
@@ -30,7 +30,9 @@ LibDir=
 LibName1=footprint
 [eeschema]
 version=1
-LibDir=
+LibDir=../KiCAD librairies/BishopKicadConsolidated
 [eeschema/libraries]
 LibName1=component
 LibName2=C:/Users/ASUS/Google Drive/KiCAD librairies/pro micro.pretty/ProMicro
+LibName3=IC
+LibName4=C:/Users/ASUS/Google Drive/KiCAD librairies/lets_split-cache
