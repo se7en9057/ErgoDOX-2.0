@@ -1,4 +1,4 @@
-update=5/22/2018 8:13:36 PM
+update=5/28/2018 10:20:11 AM
 version=1
 last_client=kicad
 [general]
@@ -30,9 +30,12 @@ LibDir=
 LibName1=footprint
 [eeschema]
 version=1
-LibDir=../KiCAD librairies/BishopKicadConsolidated
+LibDir=../../KiCAD librairies/BishopKicadConsolidated
 [eeschema/libraries]
 LibName1=component
 LibName2=C:/Users/ASUS/Google Drive/KiCAD librairies/pro micro.pretty/ProMicro
 LibName3=IC
 LibName4=C:/Users/ASUS/Google Drive/KiCAD librairies/lets_split-cache
+LibName5=conn
+LibName6=C:/Users/ASUS/Google Drive/KiCAD librairies/KiCAD-Keyboard-Tutorial-master/components
+LibName7=transistors
